@@ -2,4 +2,3 @@
 This is a repo of my teaching as a STA of ENGG1330 Tutorial G1.  
 ENGG1330 mainly talks about how to use basic functions of python.  
 
-Here are the main contents of ENGG1330 (python):  
