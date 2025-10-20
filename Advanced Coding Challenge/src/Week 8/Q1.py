@@ -23,5 +23,6 @@ There is no auto grader for this one. Ask your student TA if your code is correc
 '''
 
 import itertools, random
-deck = list(itertools.product(range(1,14),['Spade','Heart','Diamond','Club']))
+deck = list(itertools.product(range(1,14),['Spade','Heart','Diamond','Club'])) # Cartisesian Product
+#print(deck)
 print(random.choices(deck, k=50))
