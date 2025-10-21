@@ -137,6 +137,7 @@ def printLine(line):
         else:
             print("|",line[i],"|")
 
+# Turn functions for X and O
 def xTurn():
     position = int(input("X: "))
     if(isRepeat(position)):
