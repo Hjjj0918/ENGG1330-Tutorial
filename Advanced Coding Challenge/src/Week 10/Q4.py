@@ -1,3 +1,8 @@
+'''
+Implement the Ackermann function. 
+
+Get input number m and n from the user and print the result.
+'''
 def A(m, n):
     if m < 0 or n < 0:
         return 0
