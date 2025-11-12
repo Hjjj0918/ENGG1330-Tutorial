@@ -13,3 +13,4 @@ while final[current] < 1: # while the tank is not yet filled
         break
   
 print(sum(final))
+
